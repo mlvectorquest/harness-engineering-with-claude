@@ -1,0 +1,22 @@
+{
+  "token_counter_methodology": "len(text) / 3.8 heuristic (no API key available)",
+  "baseline_tokens": 47144,
+  "assembled_tokens": 20264,
+  "reduction_pct": 57.02,
+  "per_section_tokens": {
+    "case_facts": 149,
+    "resolved_refund": 238,
+    "resolved_subscription": 336,
+    "active": 19538
+  },
+  "compression_api": {
+    "refund": {
+      "input_tokens": 10,
+      "output_tokens": 6379
+    },
+    "subscription": {
+      "input_tokens": 10,
+      "output_tokens": 789
+    }
+  }
+}

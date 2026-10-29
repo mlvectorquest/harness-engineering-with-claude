@@ -1,0 +1,19 @@
+run_dir: /Users/johannventer/Udacity/AI Engineering with Claude/harness-engineering-with-claude/Build a Claims Intake Agent with a stop_reason-Driven Loop/exercises/03-dynamic-decomposition/solution/runs/20261014_135400
+[claim_01_kitchen_fire] policy=POL-1001 expected=routed
+  → outcome=incomplete turns=2 clarifications=0 tokens=6267/457 est=$0.0086
+[claim_02_stolen_bike] policy=POL-1007 expected=routed
+  → outcome=routed turns=5 clarifications=0 tokens=16875/744 est=$0.0206
+[claim_03_water_damage] policy=POL-1004 expected=routed
+  → outcome=incomplete turns=3 clarifications=0 tokens=9194/469 est=$0.0115
+[claim_04_neighbor_injury] policy=POL-1002 expected=routed
+  → outcome=routed turns=7 clarifications=1 tokens=26877/1304 est=$0.0334
+[claim_05_auto_collision] policy=POL-1003 expected=routed
+  → outcome=routed turns=4 clarifications=0 tokens=14793/890 est=$0.0192
+[claim_06_low_confidence_escalation] policy=POL-1008 expected=escalated
+  → outcome=incomplete turns=3 clarifications=0 tokens=9621/727 est=$0.0133
+[claim_07_tree_falls_on_car] policy=POL-1005 expected=routed
+  → outcome=incomplete turns=2 clarifications=0 tokens=6178/458 est=$0.0085
+[claim_08_minor_porch_damage] policy=POL-1006 expected=routed
+  → outcome=routed turns=5 clarifications=0 tokens=18235/860 est=$0.0225
+summary: /Users/johannventer/Udacity/AI Engineering with Claude/harness-engineering-with-claude/Build a Claims Intake Agent with a stop_reason-Driven Loop/exercises/03-dynamic-decomposition/solution/runs/20261014_135400/summary.md
+total estimated cost: $0.1376
