@@ -22,31 +22,31 @@
 
 # Resolved: Refund inquiry
 
-**Outcome.** Refund of $22.14 was processed to Linda Marchetti's original Visa payment method for damaged items in order ORD-77310, with an additional $5.00 discount code applied as a goodwill gesture.
+**Outcome.** Damage claim for order ORD-77310 was processed for $22.14 refund to customer's Visa card plus $5.00 goodwill discount code.
 
 **Key facts.**
-- Customer CUST-88421 (Linda Marchetti) reported water damage to multiple items in order ORD-77310, delivered with wet bags and compromised contents.
-- Claim included: 1 five-pound all-purpose flour bag ($4.89), 2 of 3 store-brand penne pasta boxes ($4.18), 1 one-liter extra virgin olive oil bottle ($9.49), and 2 of 4 diced tomato cans ($3.58)—calculated as per-unit pricing for damaged quantities only.
-- Refund initiated within one to two business days; expected to post to Visa statement within 3–5 business days (outer limit 7 days per section 4.2 policy).
-- Goodwill offering: $5.00 discount code valid for any future order over $30.00 with no expiration date.
-- Claim reference number DM-2026-441872; automated confirmation email sent to account email within 15–30 minutes containing reference number, itemized refund breakdown, discount code, and link to damage documentation portal (photos uploadable within 30 days).
-- Service note logged on account regarding missing photo delivery confirmation for separate operational review.
+- Claimed items: flour (1 5-lb bag, torn/waterlogged), pasta (2 of 3 boxes, saturated), olive oil (1L bottle, ~1/3 leaked), tomato cans (2 of 4, seam dents)
+- Refund: $22.14 ($4.89+$4.18+$9.49+$3.58) to original Visa payment method
+- Claim reference: DM-2026-441872; refund initiated 2026-10-29
+- Timeline: expected to post within 3-5 business days (7 days maximum)
+- Goodwill offering: $5.00 discount code for future Pantry Plus orders over $30.00, no expiration date
+- Delivery operations note added for missing photo confirmation on this order
 
-**Resolution.** Refund of $22.14 processed and initiated; goodwill code applied; claim DM-2026-441872 finalized and closed with full documentation.
+**Resolution.** Claim DM-2026-441872 submitted and approved 2026-10-29; customer confirmed satisfaction with resolution and received reference number for any follow-up inquiries.
 
 # Resolved: Subscription cancellation
 
-**Outcome.** Customer's duplicate subscription charge of $18.99 (charged May 7th in addition to May 3rd) was refunded, and their Pantry Plus Monthly subscription (SUB-22119) was cancelled with an additional prorated refund for unused billing days.
+**Outcome.** Customer's duplicate subscription charge ($18.99 on May 7th) and mid-cycle cancellation with prorated refund were processed under case reference CXL-20260519-88421.
 
 **Key facts.**
-- Customer CUST-88421; subscription ID SUB-22119; cancellation reference CXL-20260519-88421
-- Duplicate $18.99 charge confirmed; automatic correction workflow had failed to process
-- Total refunds approved: $28.18 ($18.99 duplicate + $9.19 prorated for 15 unused days of 31-day May 3–June 3 cycle)
-- Refunds process as two separate credits to Visa debit card within 5–7 business days (realistic window ~May 28th)
-- Cancellation reason code `duplicate_charge` recorded in CRM; confirmation email will reference billing error
-- Pending Thursday delivery and 1,200 reward points confirmed unaffected; account remains active for future re-subscription
+- Customer account CUST-88421; subscription SUB-22119 (Pantry Plus Monthly plan) cancelled effective May 19, 2026.
+- Duplicate charges verified: $18.99 on May 3rd and $18.99 on May 7th; both settled transactions flagged by internal audit but automatic correction workflow failed.
+- Refunds initiated: $18.99 (duplicate charge) + $9.19 (prorated unused days: 15 of 31-day cycle May 3–June 3); total $28.18 to Visa debit card, 5–7 business days.
+- Pending order (May 21st delivery) confirmed protected with subscriber rates and locked-in coupons (olive oil discount, pasta buy-one-get-one).
+- Reward points: 1,200 intact and redeemable; historical 1.5x multiplier earnings not retroactively recalculated.
+- Cancellation reason recorded as duplicate_charge in CRM; confirmation email and chat transcript auto-generated; future re-subscription unrestricted.
 
-**Resolution.** Subscription cancelled effective May 19, 2026, with status `cancelled_with_prorated_refund`; both refunds queued; no restrictions on account or future re-subscription.
+**Resolution.** Subscription cancelled with status cancelled_with_prorated_refund; both refunds queued; customer account remains active as non-subscriber with no re-subscription restrictions.
 
 # Active issue: Payment-method update
 
